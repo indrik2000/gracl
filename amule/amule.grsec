@@ -144,3 +144,4 @@ subject /usr/bin/amule o
 		bind 0.0.0.0/32:4672 dgram udp 
 		connect 0.0.0.0/0:1-65535 stream dgram tcp udp
 		sock_allow_family inet
+
